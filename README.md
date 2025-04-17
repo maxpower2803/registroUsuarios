@@ -79,11 +79,6 @@ mvn spring-boot:run
     "active": true
 }
 ```
-## Uso con Postman
-
-1. Agregar el endpoint .
-2. Verificar que las peticiones sean en formato `application/json`.
-3. ejecutar la peticion POST
 
 ## Consola H2
 
