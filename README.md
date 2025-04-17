@@ -96,3 +96,6 @@ Disponible en:
 
 Swagger UI disponible en:  
 [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+
+## Diagrama
+![image](https://github.com/user-attachments/assets/72b9fd1c-30de-42bc-80b7-fc7361e1c34b)
